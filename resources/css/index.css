@@ -11,6 +11,11 @@ body {
     font-family: Verdana;
 }
 
+.subtitle {
+    font-size: 21px;
+    color: gray;
+}
+
 .links {
     color: aquamarine;
     font-size: 16px;
