@@ -1,1 +1,27 @@
-I want to fuck a girl 
+h1 {
+    color: white;
+    font-family: Verdana;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana;
+}
+
+.subtitle {
+    font-size: 21px;
+    color: gray;
+}
+
+.links {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#copyright {
+    color: gray;
+    text-align: right;
+}
